@@ -12,6 +12,10 @@ Script para gerar hash para o projeto [MiCheckHash](https://github.com/bluiceofi
 
 * Ubuntu 24.04 or newer
 
+### Windows
+
+* Windows 10 or newer
+
 ## Support
 
 * GitHub Sponsors: [https://github.com/sponsors/bluiceoficial/](https://github.com/sponsors/bluiceoficial/)
